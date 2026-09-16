@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sarehalinezhad
-- 👀 I’m student of computer science
-- 🌱 I’m logo designer
+BSC in computer Science
   
 
 <!---
